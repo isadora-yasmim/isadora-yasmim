@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Isadora.
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isadora-yasmim&show_icons=true&theme=dracula)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isadora-yasmim&show_icons=true&theme=dracula&exclude=stars)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadora-yasmim&theme=dracula&layout=compact)
   
 - Sou estudante Engenharia de Software na UFG
