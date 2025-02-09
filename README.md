@@ -2,9 +2,10 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isadora-yasmim&show_icons=true&theme=dracula&hide=stars)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadora-yasmim&theme=dracula&layout=compact)
   
-- Sou estudante Engenharia de Software na UFG
-- Minhas áreas de interesse são desenvolvimento front-end e ciência de dados
+- Sou estudante Engenharia de Software 
+- Minhas áreas de interesse são desenvolvimento frontend e análise de dados
 - Estou estudando python e java no momento
+- Estou buscando desenvolver novos projetos
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
