@@ -3,7 +3,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadora-yasmim&theme=dracula&layout=compact)
   
 - Sou estudante Engenharia de Software 
-- Minhas áreas de interesse são desenvolvimento agentes e análise de dados
+- Minhas áreas de interesse são desenvolvimento de agentes inteligentes e ciência de dados
 - Estou buscando desenvolver novos projetos
   
 <div style="display: inline_block"><br>
