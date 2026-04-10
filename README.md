@@ -1,8 +1,7 @@
 ## Olá! Eu sou a Isadora.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isadora-yasmim&show_icons=true&theme=dracula&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadora-yasmim&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=isadora-yasmim&theme=dracula"/>
 </p>
 
 - Sou estudante Engenharia de Software 
