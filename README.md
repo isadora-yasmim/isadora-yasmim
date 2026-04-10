@@ -1,9 +1,9 @@
 ## Olá! Eu sou a Isadora.
  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isadora-yasmim&show_icons=true&theme=dracula&hide=stars)-->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadora-yasmim&theme=dracula&layout=compact)
+  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadora-yasmim&theme=dracula&layout=compact)-->
   
 - Sou estudante Engenharia de Software 
-- Minhas áreas de interesse são desenvolvimento de agentes inteligentes e ciência de dados
+- Minhas áreas de interesse são desenvolvimento de agentes inteligentes, NLP, MLOps e Ciência de Dados
 - Estou em busca de desenvolver novos projetos
   
 <div style="display: inline_block"><br>
