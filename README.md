@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Isadora.
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=isadora-yasmim&theme=dracula"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=isadora-yasmim&theme=dracula&locale=pt_BR"/>
 </p>
 
 - Sou estudante Engenharia de Software 
