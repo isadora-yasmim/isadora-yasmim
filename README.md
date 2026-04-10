@@ -1,8 +1,10 @@
 ## Olá! Eu sou a Isadora.
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isadora-yasmim&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadora-yasmim&theme=dracula&layout=compact)-->
-  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isadora-yasmim&show_icons=true&theme=dracula&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadora-yasmim&layout=compact&theme=dracula&hide_border=true"/>
+</p>
+
 - Sou estudante Engenharia de Software 
 - Minhas áreas de interesse são desenvolvimento de agentes inteligentes, NLP, MLOps e Ciência de Dados
 - Estou em busca de desenvolver novos projetos
@@ -10,7 +12,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="n8n" height="30" width="40" src="assets/n8n-color.svg">
-  <img align="center" alt="n8n" height="30" width="40" src="assets/n8n-text.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
