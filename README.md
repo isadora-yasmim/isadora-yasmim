@@ -5,7 +5,7 @@
 </p>
 
 - Sou estudante Engenharia de Software 
-- Minhas áreas de interesse são desenvolvimento de agentes inteligentes, NLP, MLOps e Ciência de Dados
+- Minhas áreas de interesse são Engenharia de Software, desenvolvimento de agentes inteligentes e NLP
 - Estou em busca de desenvolver novos projetos
   
 <p align="center">
